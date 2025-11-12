@@ -37,7 +37,7 @@ Installation
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/Jus_Banner.git
+git clone https://github.com/masterpiper211/Jus_Banner.git
 cd Jus_Banner
 
 2️⃣ Install Dependencies
